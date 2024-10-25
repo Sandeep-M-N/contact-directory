@@ -1,0 +1,11 @@
+Flask==2.3.2
+Flask-SQLAlchemy==3.0.4      # Database ORM
+Flask-WTF==1.1.1             # Form handling
+Flask-Login==0.6.2           # User authentication
+Flask-Migrate==4.0.7         # Database migrations (latest available version)
+Flask-Cors==3.0.10           # Cross-origin resource sharing (CORS)
+Flask-Restful==0.3.9         # REST API support
+python-dotenv==1.0.0         # Load environment variables
+Flask-Bcrypt==1.0.1          # For password hashing (secure authentication)
+Flask-SocketIO==5.3.5        # Real-time web communication (e.g., chat apps)
+Flask-Mail==0.9.1            # Email sending capabilities
